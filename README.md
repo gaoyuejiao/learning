@@ -36,5 +36,16 @@ the problem and new knowledge of learning
 | 序 号 | 姓 名 | 年 龄 |
 | ----- | :---: | ----: |
 |   1   | lili  |  16   |
-|   1   | lili  |  16   |
+|   2   | kaka  |  20   |
+
+#### 代码
+'
+  public int a ;
+  public int b ;
+  public int c ;
+  a = 1;
+  b = 2;
+  c = a + b;
+  printf c;
+'
 
