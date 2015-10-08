@@ -22,3 +22,6 @@ the problem and new knowledge of learning
 
 #### 引用
 >这里是引用
+
+#### 链接
+[baidu](http://baidu.com)
