@@ -8,6 +8,7 @@ the problem and new knowledge of learning
 ### 语法
 #### 标题
 标题是每篇文章都需要也是最常用的格式，在 Markdown 中，如果一段文字被定义为标题，只要在这段文字前加 # 号即可。
+![this title](http://yun.baidu.com/img.png)
 #### 列表
 ##### 无序列表 *，-
 * wo
@@ -46,7 +47,7 @@ Use the `printf()` function.
 A single backtick in a code span: `` ` ``
 
 A backtick-delimited string in a code span: `` `foo` ``
-##### 在代码区段内，& 和方括号都会被自动地转成 HTML 实体，这使得插入 HTML 原始码变得很容易，Markdown 会把下面这段：
+##### 在代码区段内，& 和方括号都会被自动地转成 HTML 实体，这使得插入 HTML 原始码变得很容易
 Please don't use any `<blink>` tags.
 
 #### 分割线
