@@ -39,6 +39,5 @@ the problem and new knowledge of learning
 |   2   | kaka  |  20   |
 
 #### 代码
-' public int a ;
-'
+'haha'
 
