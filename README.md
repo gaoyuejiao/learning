@@ -8,7 +8,6 @@ the problem and new knowledge of learning
 ### 语法
 #### 标题
 标题是每篇文章都需要也是最常用的格式，在 Markdown 中，如果一段文字被定义为标题，只要在这段文字前加 # 号即可。
-！[This is a title](http://yun.baidu.com/share/link?shareid=3845145444&uk=3661869717)
 #### 列表
 ##### 无序列表 *，-
 * wo
@@ -26,7 +25,7 @@ the problem and new knowledge of learning
 #### 链接
 [百度](http://baidu.com)
 #### 图片
-！[]()
+！[](http://yun.baidu.com/share/link?shareid=3845145444&uk=3661869717)
 
 #### 粗体与斜体
 **这里是粗体**
