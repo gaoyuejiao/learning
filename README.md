@@ -24,4 +24,10 @@ the problem and new knowledge of learning
 >这里是引用
 
 #### 链接
-[baidu](http://baidu.com)
+[百度](http://baidu.com)
+#### 图片
+！[]()
+
+#### 粗体与斜体
+**这里是粗体**
+*这里是斜体*
