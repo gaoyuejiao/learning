@@ -39,7 +39,17 @@ the problem and new knowledge of learning
 |   2   | kaka  |  20   |
 
 #### 代码
+##### 标记一小段行内代码
 Use the `printf()` function.
+##### 在代码区段内插入反引号，用多个反引号来开启和结束代码区段：
+``There is a literal backtick (`) here.``
+##### 代码区段的起始和结束端都可以放入一个空白，起始端后面一个，结束端前面一个，这样你就可以在区段的一开始就插入反引号：
+A single backtick in a code span: `` ` ``
+
+A backtick-delimited string in a code span: `` `foo` ``
+##### 在代码区段内，& 和方括号都会被自动地转成 HTML 实体，这使得插入 HTML 原始码变得很容易，Markdown 会把下面这段：
+Please don't use any `<blink>` tags.
+
 #### 分割线
 我是谁
 ***
