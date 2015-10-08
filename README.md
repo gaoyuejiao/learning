@@ -31,3 +31,7 @@ the problem and new knowledge of learning
 #### 粗体与斜体
 **这里是粗体**
 *这里是斜体*
+
+#### 表格
+|序号|姓名|年龄|
+|----|----|--：|
