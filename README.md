@@ -34,4 +34,7 @@ the problem and new knowledge of learning
 
 #### 表格
 | 序 号 | 姓 名 | 年 龄 |
-| ----- | ：--：| ----：|
+| ----- | :---: | ----: |
+|   1   | lili  |  16   |
+|   1   | lili  |  16   |
+
