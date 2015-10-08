@@ -5,3 +5,7 @@ the problem and new knowledge of learning
 ### 用途
   Markdown的语法简洁明了、学习容易，而且功能比纯文本更强，因此有很多人用它写博客。世界上最流行的博客平台WordPress和大型CMS如Joomla、Drupal都能很好的支持Markdown。完全采用Markdown编辑器的博客平台有Ghost和Typecho。
 用于编写说明文档，并且以“README.MD”的文件名保存在软件的目录下面。
+### 语法
+#### 标题
+标题是每篇文章都需要也是最常用的格式，在 Markdown 中，如果一段文字被定义为标题，只要在这段文字前加 # 号即可。
+![This is a title]()
